@@ -1,0 +1,25 @@
+{
+  "modules": [
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "cpu",
+    "gpu",
+    "memory",
+    "osRelease"
+  ],
+  "colors": {
+    "key": "cyan",
+    "value": "white"
+  },
+  "logo": "arch_small",
+  "options": {
+    "padding": 2,
+    "separator": ":",
+    "time": true
+  }
+}
+
+// Simplified the logo section — Fastfetch might expect just the name.
+// Test this and let me know if the error persists! 🚀

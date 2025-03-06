@@ -1,0 +1,11 @@
+# Hyprland Colors
+env = $color0, {color0}
+env = $color1, {color1}
+env = $color2, {color2}
+env = $color3, {color3}
+env = $color4, {color4}
+env = $color5, {color5}
+env = $color6, {color6}
+env = $color7, {color7}
+env = $color8, {color8}
+env = $color9, {color9}

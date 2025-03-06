@@ -23,8 +23,8 @@ tooltip label{
 }
 
 #workspaces button {
-    padding: 5px;
-    color: #313244;
+    padding: 1px;
+    color: #000000;
     margin-right: 5px;
 }
 
@@ -58,13 +58,11 @@ tooltip label{
 #battery,
 #network,
 #tray,
+#custom-cava,
 #temperature,
 #workspaces,
 #backlight {
-    background: #1e1e2e;
-    padding: 0px 8px;
-    margin: 1px;
-    border-radius: 15px;
+   
 }
 
 #bluetooth,
@@ -83,11 +81,12 @@ tooltip label{
     opacity: 0.9;
 }
 
-#cava {
-    font-family: "JetBrainsMono";
-    font-weight: 200;
-    padding: 8px 8px;
-    margin: 6px;
-    border-radius: 15px;
-    opacity: 0.9;
+#custom-cava {
+    color: #8FBC8F;
+    border-left: 0px;
+    border-right: 0px;
+    padding-bottom: 6px;
+    font-family: "bargraph";
+    font-size: 22px;
 }
+

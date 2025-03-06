@@ -1,0 +1,236 @@
+01:38:31.993: Platform: Wayland
+01:38:31.993: CPU Name: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+01:38:31.993: CPU Speed: 934.264MHz
+01:38:31.993: Physical Cores: 2, Logical Cores: 4
+01:38:31.993: Physical Memory: 3638MB Total, 770MB Free
+01:38:31.993: Kernel Version: Linux 6.13.5-zen1-1-zen
+01:38:31.993: Distribution: "Arch Linux" Unknown
+01:38:31.993: Desktop Environment: Hyprland (Hyprland)
+01:38:31.993: Session Type: wayland
+01:38:31.994: Qt Version: 6.8.2 (runtime), 6.8.1 (compiled)
+01:38:31.994: Portable mode: false
+01:38:32.017: OBS 31.0.1 (linux)
+01:38:32.017: ---------------------------------
+01:38:32.018: ---------------------------------
+01:38:32.018: audio settings reset:
+01:38:32.018: 	samples per sec: 48000
+01:38:32.018: 	speakers:        2
+01:38:32.018: 	max buffering:   960 milliseconds
+01:38:32.018: 	buffering type:  dynamically increasing
+01:38:32.019: ---------------------------------
+01:38:32.019: Initializing OpenGL...
+01:38:32.019: Using EGL/Wayland
+01:38:32.049: Initialized EGL 1.5
+01:38:32.060: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics (TGL GT2)
+01:38:32.060: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.3.4-arch1.1, shading language 4.60
+01:38:32.087: ---------------------------------
+01:38:32.087: video settings reset:
+01:38:32.087: 	base resolution:   1920x1080
+01:38:32.087: 	output resolution: 1280x720
+01:38:32.087: 	downscale filter:  Bicubic
+01:38:32.087: 	fps:               30/1
+01:38:32.087: 	format:            NV12
+01:38:32.087: 	YUV mode:          Rec. 709/Partial
+01:38:32.087: NV12 texture support enabled
+01:38:32.087: P010 texture support not available
+01:38:32.094: Audio monitoring device:
+01:38:32.094: 	name: Default
+01:38:32.094: 	id: default
+01:38:32.094: ---------------------------------
+01:38:32.100: Failed to load 'en-US' text for module: 'decklink-captions.so'
+01:38:32.106: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+01:38:32.111: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:38:32.111: Failed to initialize module 'decklink.so'
+01:38:32.223: [pipewire] Available capture sources:
+01:38:32.223: [pipewire]     - Monitor source
+01:38:32.223: [pipewire]     - Window source
+01:38:32.239: v4l2loopback not installed, virtual camera not registered
+01:38:32.285: VAAPI: API version 1.22
+01:38:32.285: FFmpeg VAAPI H264 encoding supported
+01:38:32.286: FFmpeg VAAPI AV1 encoding not supported
+01:38:32.288: FFmpeg VAAPI HEVC encoding supported
+01:38:32.309: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+01:38:32.309: 
+01:38:32.309: NVENC not supported
+01:38:32.309: Failed to initialize module 'obs-nvenc.so'
+01:38:32.366: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+01:38:32.366: 
+01:38:32.369: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+01:38:32.369: 
+01:38:32.369: Module '/usr/lib/obs-plugins/obs-websocket.so' not loaded
+01:38:32.391: ---------------------------------
+01:38:32.391:   Loaded Modules:
+01:38:32.391:     text-freetype2.so
+01:38:32.391:     rtmp-services.so
+01:38:32.391:     obs-x264.so
+01:38:32.391:     obs-webrtc.so
+01:38:32.391:     obs-vst.so
+01:38:32.391:     obs-transitions.so
+01:38:32.391:     obs-qsv11.so
+01:38:32.391:     obs-outputs.so
+01:38:32.391:     obs-libfdk.so
+01:38:32.391:     obs-filters.so
+01:38:32.391:     obs-ffmpeg.so
+01:38:32.391:     linux-v4l2.so
+01:38:32.391:     linux-pulseaudio.so
+01:38:32.391:     linux-pipewire.so
+01:38:32.391:     linux-jack.so
+01:38:32.391:     linux-capture.so
+01:38:32.391:     linux-alsa.so
+01:38:32.391:     image-source.so
+01:38:32.391:     frontend-tools.so
+01:38:32.391:     decklink-output-ui.so
+01:38:32.391:     decklink-captions.so
+01:38:32.391: ---------------------------------
+01:38:32.391: ---------------------------------
+01:38:32.391: Available Encoders:
+01:38:32.391:   Video Encoders:
+01:38:32.391: 	- ffmpeg_svt_av1 (SVT-AV1)
+01:38:32.391: 	- ffmpeg_aom_av1 (AOM AV1)
+01:38:32.391: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+01:38:32.391: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+01:38:32.391: 	- obs_qsv11_v2 (QuickSync H.264)
+01:38:32.391: 	- obs_qsv11_hevc (QuickSync HEVC)
+01:38:32.391: 	- obs_x264 (x264)
+01:38:32.391:   Audio Encoders:
+01:38:32.391: 	- ffmpeg_aac (FFmpeg AAC)
+01:38:32.391: 	- ffmpeg_opus (FFmpeg Opus)
+01:38:32.391: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+01:38:32.391: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+01:38:32.391: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+01:38:32.391: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+01:38:32.391: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+01:38:32.391: 	- libfdk_aac (libfdk AAC)
+01:38:32.391: ==== Startup complete ===============================================
+01:38:32.449: All scene data cleared
+01:38:32.449: ------------------------------------------------
+01:38:32.457: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+01:38:32.457: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+01:38:32.458: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+01:38:32.458: [Loaded global audio device]: 'Desktop Audio'
+01:38:32.458: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+01:38:32.459: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+01:38:32.459: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo' (default)
+01:38:32.459: [Loaded global audio device]: 'Mic/Aux'
+01:38:32.460: PipeWire initialized
+01:38:32.462: Switched to scene 'Scene'
+01:38:32.462: ------------------------------------------------
+01:38:32.462: Loaded scenes:
+01:38:32.462: - scene 'Scene':
+01:38:32.462:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+01:38:32.462: ------------------------------------------------
+01:38:32.503: [pipewire] Screencast session created
+01:38:32.598: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+01:38:32.621: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+01:38:33.021: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+01:38:33.021: 
+01:38:34.311: [pipewire] Asking for monitor and window
+01:38:34.315: [pipewire] source selected, setting up screencast
+01:38:34.329: [pipewire] Server version: 1.2.7
+01:38:34.329: [pipewire] Library version: 1.2.7
+01:38:34.329: [pipewire] Header version: 1.2.7
+01:38:34.329: [pipewire] Created stream 0x639818400a70
+01:38:34.329: [pipewire] Stream 0x639818400a70 state: "connecting" (error: none)
+01:38:34.329: [pipewire] Playing stream 0x639818400a70
+01:38:34.330: [pipewire] Stream 0x639818400a70 state: "paused" (error: none)
+01:38:34.342: [pipewire] Negotiated format:
+01:38:34.342: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+01:38:34.342: [pipewire]     Modifier: 0x0
+01:38:34.342: [pipewire]     Size: 1920x1080
+01:38:34.342: [pipewire]     Framerate: 0/1
+01:38:34.344: [pipewire] Negotiated format:
+01:38:34.344: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+01:38:34.344: [pipewire]     Modifier: 0x100000000000008
+01:38:34.344: [pipewire]     Size: 1920x1080
+01:38:34.344: [pipewire]     Framerate: 0/1
+01:38:34.360: [pipewire] Stream 0x639818400a70 state: "streaming" (error: none)
+01:38:34.366: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+01:38:34.366: [pipewire] Renegotiating stream
+01:38:34.367: [pipewire] Stream 0x639818400a70 state: "paused" (error: none)
+01:38:34.367: [pipewire] Negotiated format:
+01:38:34.367: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+01:38:34.367: [pipewire]     Modifier: 0x100000000000008
+01:38:34.367: [pipewire]     Size: 1920x1080
+01:38:34.367: [pipewire]     Framerate: 0/1
+01:38:34.374: [pipewire] Negotiated format:
+01:38:34.374: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+01:38:34.374: [pipewire]     Modifier: 0x100000000000006
+01:38:34.374: [pipewire]     Size: 1920x1080
+01:38:34.374: [pipewire]     Framerate: 0/1
+01:38:34.375: [pipewire] Negotiated format:
+01:38:34.375: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+01:38:34.375: [pipewire]     Modifier: 0x100000000000006
+01:38:34.375: [pipewire]     Size: 1920x1080
+01:38:34.375: [pipewire]     Framerate: 0/1
+01:38:34.379: [pipewire] Negotiated format:
+01:38:34.379: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+01:38:34.379: [pipewire]     Modifier: 0x100000000000006
+01:38:34.379: [pipewire]     Size: 1920x1080
+01:38:34.379: [pipewire]     Framerate: 0/1
+01:38:34.393: [pipewire] Stream 0x639818400a70 state: "streaming" (error: none)
+01:38:34.399: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+01:38:34.399: [pipewire] Renegotiating stream
+01:38:34.400: [pipewire] Stream 0x639818400a70 state: "paused" (error: none)
+01:38:34.400: [pipewire] Negotiated format:
+01:38:34.400: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+01:38:34.400: [pipewire]     Modifier: 0x100000000000006
+01:38:34.401: [pipewire]     Size: 1920x1080
+01:38:34.401: [pipewire]     Framerate: 0/1
+01:38:34.407: [pipewire] Negotiated format:
+01:38:34.407: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+01:38:34.407: [pipewire]     Modifier: 0x100000000000002
+01:38:34.407: [pipewire]     Size: 1920x1080
+01:38:34.407: [pipewire]     Framerate: 0/1
+01:38:34.408: [pipewire] Negotiated format:
+01:38:34.408: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+01:38:34.408: [pipewire]     Modifier: 0x100000000000002
+01:38:34.408: [pipewire]     Size: 1920x1080
+01:38:34.408: [pipewire]     Framerate: 0/1
+01:38:34.412: [pipewire] Negotiated format:
+01:38:34.413: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+01:38:34.413: [pipewire]     Modifier: 0x100000000000002
+01:38:34.413: [pipewire]     Size: 1920x1080
+01:38:34.413: [pipewire]     Framerate: 0/1
+01:38:34.427: [pipewire] Stream 0x639818400a70 state: "streaming" (error: none)
+01:42:03.556: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+01:43:56.406: >>> new qsv encoder
+01:43:56.406: [qsv encoder: 'simple_video_recording'] settings:
+01:43:56.406: 	codec:          H.264
+01:43:56.406: 	rate_control:   ICQ
+01:43:56.406: 	ICQ Quality:    21
+01:43:56.406: 	target_usage:   TU4
+01:43:56.406: 	profile:        high
+01:43:56.406: 	keyint:         0
+01:43:56.406: 	latency:        normal
+01:43:56.406: 	b-frames:       3
+01:43:56.406: 	fps_num:        30
+01:43:56.406: 	fps_den:        1
+01:43:56.406: 	width:          1280
+01:43:56.406: 	height:         720
+01:43:56.406: [qsv encoder: 'simple_video_recording'] debug info:
+01:43:56.546: Failed to initialize MFX
+01:43:56.546: [qsv encoder: 'msdk_impl'] Specified object/item/sync point not found. (MFX_ERR_NOT_FOUND)
+01:43:56.546: [qsv encoder: 'simple_video_recording'] qsv failed to load
+01:43:56.546: 	major:          1
+01:43:56.546: 	minor:          0
+01:44:01.192: >>> new qsv encoder
+01:44:01.192: [qsv encoder: 'simple_video_recording'] settings:
+01:44:01.192: 	codec:          H.264
+01:44:01.192: 	rate_control:   ICQ
+01:44:01.192: 	ICQ Quality:    21
+01:44:01.192: 	target_usage:   TU4
+01:44:01.192: 	profile:        high
+01:44:01.192: 	keyint:         0
+01:44:01.192: 	latency:        normal
+01:44:01.192: 	b-frames:       3
+01:44:01.192: 	fps_num:        30
+01:44:01.192: 	fps_den:        1
+01:44:01.192: 	width:          1280
+01:44:01.192: 	height:         720
+01:44:01.192: [qsv encoder: 'simple_video_recording'] debug info:
+01:44:01.203: Failed to initialize MFX
+01:44:01.203: [qsv encoder: 'msdk_impl'] Specified object/item/sync point not found. (MFX_ERR_NOT_FOUND)
+01:44:01.203: [qsv encoder: 'simple_video_recording'] qsv failed to load
+01:44:01.203: 	major:          1
+01:44:01.203: 	minor:          0
+01:44:01.225: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
