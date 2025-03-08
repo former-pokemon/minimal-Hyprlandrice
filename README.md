@@ -60,11 +60,9 @@ Example Waybar styling:
 
 It’s your rice, so make it yours, after all. 🧑‍🎨
 
-## Demo Video 📽️🎬👀
+## Demo 🎬  
+![Hyprland Demo](./preview.gif)
 
-Coming soon! I’ll upload a video to walk you through the setup, show off the features, and explain how to customize everything to fit your vibe.
-
-_(Video will be embedded here)_
 
 ## Future Enhancements 🚧🔧📘
 
