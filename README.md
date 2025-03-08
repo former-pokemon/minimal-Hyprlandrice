@@ -151,7 +151,7 @@ bindl = , XF86AudioPrev, exec, playerctl previous
 
 ## Future Enhancements 🚧🔧📘
 
-- A detailed list of keybindings
+- I have added //window+arrow keys to resixze windows
 - Wallpaper rotation scripts
 - System monitoring widgets for Waybar
 
