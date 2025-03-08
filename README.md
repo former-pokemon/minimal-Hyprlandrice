@@ -58,7 +58,7 @@ Example Waybar styling:
 }
 ```
 
-Go wild with the colors, fonts, and layout. It’s your rice, after all. 🧑‍🎨
+It’s your rice, so make it yours, after all. 🧑‍🎨
 
 ## Demo Video 📽️🎬👀
 
