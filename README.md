@@ -37,7 +37,7 @@ cp -r .config/* ~/.config/
 
 ## Theming & Styling 🎨🖌️✨
 
-I went for a modern, dark theme with vibrant accents. The CSS files for Waybar and GTK themes are fully customizable, so tweak them to your heart’s content.
+I went for a modern, minimal with vibrant accents. The CSS files for Waybar and GTK themes are fully customizable, so tweak them to your heart’s content.
 
 Example Waybar styling:
 
