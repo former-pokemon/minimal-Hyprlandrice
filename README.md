@@ -63,7 +63,7 @@ It’s your rice, so make it yours, after all. 🧑‍🎨
 ## Showcase 🎥
 
 ![Hyprland Showcase](./preview.gif)
-(./lockscreen.gif)
+![Hyprland Showcase](./lockscreen.gif)
  
 With audio: 
 [![Watch the showcase](https://img.youtube.com/vi/lkBbZEdpgg8/0.jpg)](https://youtu.be/lkBbZEdpgg8)
