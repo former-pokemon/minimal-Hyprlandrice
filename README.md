@@ -144,7 +144,10 @@ bindl = , XF86AudioPause, exec, playerctl play-pause
 bindl = , XF86AudioPlay, exec, playerctl play-pause
 bindl = , XF86AudioPrev, exec, playerctl previous
 ```
-
+## Wallpapers
+all wallpapers are in ~/Pictures 
+swww keybindings will not work if you dont put these images in you ~/Pictures folder
+or you can change the keybinds as you wish too __line 322 in ~/.config/hypr/hyprland.conf__
 
 
 
