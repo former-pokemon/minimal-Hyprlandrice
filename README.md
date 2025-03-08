@@ -38,7 +38,7 @@ cp -r .config/* ~/.config/
 ## Theming & Styling 🎨🖌️✨
 
 I went for a modern, minimal with vibrant accents. The CSS files for Waybar and GTK themes are fully customizable, so tweak them to your heart’s content.
-
+suryansh is a bich
 Example Waybar styling:
 
 ```css
@@ -88,6 +88,7 @@ Got ideas or found a bug? Open an issue or fork the repo!
 Happy ricing! 🎉🌈🔑
 
 ---
+
 
 _Made with love, late nights, and way too many terminal windows. 🚀💻🧠_
 
