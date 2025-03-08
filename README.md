@@ -23,8 +23,8 @@ Welcome to my Hyprland rice setup! I use Arch, btw. This is a custom Linux deskt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/former-pokemon/Hyprland-rice
-cd Hyprland-rice
+git clone https://github.com/former-pokemon/minimal-Hyprlandrice
+cd minimal-Hyprlandrice
 ```
 
 2. Copy the configuration files to your `.config` directory:
