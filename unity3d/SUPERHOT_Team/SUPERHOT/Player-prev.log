@@ -1,0 +1,998 @@
+Mono path[0] = '/home/yatharth/GOG Games/SUPERHOT/game/SUPERHOT_Data/Managed'
+Mono config path = '/home/yatharth/GOG Games/SUPERHOT/game/SUPERHOT_Data/MonoBleedingEdge/etc'
+Preloaded 'libCSteamworks.so'
+Preloaded 'libsteam_api.so'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 'eDP-1 14"': 1536x864 (primary device).
+Desktop is 1536 x 864 @ 60 Hz
+Initialize engine version: 2020.3.24f1 (79c78de19888)
+[Subsystems] Discovering subsystems at path /home/yatharth/GOG Games/SUPERHOT/game/SUPERHOT_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Renderer: Mesa Intel(R) UHD Graphics (TGL GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 24.3.4-arch1.1
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
+_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
+int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
+L_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2
+_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT
+_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_N
+V_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 668552688
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.724 seconds
+OnLevelWasLoaded was found on LevelSetup
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+Default vsync count 1
+requesting resize 1536 x 864
+Using native desktop resolution 1536 x 864
+requesting fullscreen 1536 x 864 at 0 Hz
+Desktop is 1536 x 864 @ 60 Hz
+UnloadTime: 27.695070 ms
+Achievement System initialization result: OK, User stats init result: OK
+Backup creation result: Successful
+0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
+
+Note: Creation of internal variant of shader 'GUI/Text Shader' failed.
+0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
+
+Note: Creation of internal variant of shader 'Hidden/InternalErrorShader' failed.
+0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
+
+Note: Creation of internal variant of shader 'Hidden/InternalClear' failed.
+0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
+
+Note: Creation of internal variant of shader 'Hidden/InternalClear' failed.
+0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
+
+Note: Creation of internal variant of shader 'Hidden/InternalClear' failed.
+0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
+
+Note: Creation of internal variant of shader 'Hidden/InternalClear' failed.
+0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
+
+Note: Creation of internal variant of shader 'Hidden/InternalClear' failed.
+0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
+
+Note: Creation of internal variant of shader 'Hidden/InternalClear' failed.
+0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
+
+Note: Creation of internal variant of shader 'Hidden/InternalClear' failed.
+0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
+
+Note: Creation of internal variant of shader 'Hidden/InternalClear' failed.
+Shader warmup: 7 shaders 53 combinations 0.058s
+https://killstagram.azurewebsites.net/api/Uploader/victoriabwalker-yatharth476cfc55b64b40e7b4ecbedd4af5a5ca
+Starting WebRequest for acquiring KillstagramId
+Curl error 6: Could not resolve host: killstagram.azurewebsites.net
+WebRequest resolved
+WebRequest returned error: httpError: False, networkError: True
+Error message: Cannot resolve destination host
+Trying to restart Id acquiring
+https://killstagram.azurewebsites.net/api/Uploader/victoriabwalker-yatharth476cfc55b64b40e7b4ecbedd4af5a5ca
+Starting WebRequest for acquiring KillstagramId
+Curl error 6: Could not resolve host: killstagram.azurewebsites.net
+The referenced script (SHRLDebugWindow) on this Behaviour is missing!
+The referenced script (DebugWindowDisplay) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'BaseSystems(Clone)') is missing!
+The referenced script on this Behaviour (Game Object 'BaseSystems(Clone)') is missing!
+The referenced script on this Behaviour (Game Object 'prober') is missing!
+The referenced script on this Behaviour (Game Object 'AchivManager') is missing!
+The referenced script on this Behaviour (Game Object 'AchivManager') is missing!
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+WebRequest resolved
+WebRequest returned error: httpError: False, networkError: True
+Error message: Cannot resolve destination host
+Trying to restart Id acquiring
+https://killstagram.azurewebsites.net/api/Uploader/victoriabwalker-yatharth476cfc55b64b40e7b4ecbedd4af5a5ca
+Starting WebRequest for acquiring KillstagramId
+Curl error 6: Could not resolve host: killstagram.azurewebsites.net
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7a730dffd6c0 -> priority: 1 
+  Thread -> id: 7a72d53ff6c0 -> priority: 1 
+WebRequest resolved
+WebRequest returned error: httpError: False, networkError: True
+Error message: Cannot resolve destination host
+Trying to restart Id acquiring
+https://killstagram.azurewebsites.net/api/Uploader/victoriabwalker-yatharth476cfc55b64b40e7b4ecbedd4af5a5ca
+Starting WebRequest for acquiring KillstagramId
+Curl error 6: Could not resolve host: killstagram.azurewebsites.net
+UnloadTime: 0.836224 ms
+Shader warmup: 59 shaders 309 combinations 0.185s
+WebRequest resolved
+WebRequest returned error: httpError: False, networkError: True
+Error message: Cannot resolve destination host
+Trying to restart Id acquiring
+https://killstagram.azurewebsites.net/api/Uploader/victoriabwalker-yatharth476cfc55b64b40e7b4ecbedd4af5a5ca
+Starting WebRequest for acquiring KillstagramId
+Curl error 6: Could not resolve host: killstagram.azurewebsites.net
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3872.
+Total: 7.284468 ms (FindLiveObjects: 0.429241 ms CreateObjectMapping: 0.248520 ms MarkObjects: 6.168755 ms  DeleteObjects: 0.436656 ms)
+
+WebRequest resolved
+WebRequest returned error: httpError: False, networkError: True
+Error message: Cannot resolve destination host
+Couldn't acquire Killstagram ID. Game will only be registered anonymously and claiming will be disabled.
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel1') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel3') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel0') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel2') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel4') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.290018 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 28301.
+Total: 13.208952 ms (FindLiveObjects: 1.211778 ms CreateObjectMapping: 0.396257 ms MarkObjects: 11.523271 ms  DeleteObjects: 0.077047 ms)
+
+Shader warmup: 91 shaders 1433 combinations 0.598s
+Trying to update IK solver before initiating it. If you intended to disable the IK component to manage it's updating, use ik.Disable() instead of ik.enabled = false, the latter does not guarantee solver initiation.
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel1') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel3') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel0') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel2') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel4') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.046816 ms
+
+Unloading 216 unused Assets to reduce memory usage. Loaded Objects now: 28474.
+Total: 14.831133 ms (FindLiveObjects: 1.381985 ms CreateObjectMapping: 0.408719 ms MarkObjects: 12.036905 ms  DeleteObjects: 1.002997 ms)
+
+Shader warmup: 93 shaders 1435 combinations 0.006s
+3774: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3774: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3774: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3774: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3777: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3777: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3777: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3777: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3777: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3777: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3801: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+3892: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+3893: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+3893: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+3893: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+3893: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+3961: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+3961: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+3964: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+3964: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+3964: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+3965: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+3965: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+3968: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4016: Too many instances of of same clip(bullet_hit_wall) starting nearly at same time, skipping
+4016: Too many instances of of same clip(bullet_hit_wall) starting nearly at same time, skipping
+4016: Too many instances of of same clip(bullet_hit_wall) starting nearly at same time, skipping
+4016: Too many instances of of same clip(bullet_hit_wall) starting nearly at same time, skipping
+4016: Too many instances of of same clip(bullet_hit_wall) starting nearly at same time, skipping
+4032: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4032: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4032: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4033: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+4033: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+4033: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4033: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4033: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4448: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+4449: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+4450: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4450: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4450: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4450: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4450: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4818: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4822: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4832: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4833: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4833: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+4833: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+5093: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+6384: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+6384: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+6386: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+6391: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6393: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6393: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6393: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6394: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6395: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6395: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6396: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6398: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6398: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6399: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6399: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6400: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6406: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+6586: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+6586: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+6586: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+6586: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel1') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel3') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel0') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel2') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel4') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.891803 ms
+
+Unloading 274 unused Assets to reduce memory usage. Loaded Objects now: 28910.
+Total: 17.638360 ms (FindLiveObjects: 1.419850 ms CreateObjectMapping: 0.424214 ms MarkObjects: 13.480700 ms  DeleteObjects: 2.312706 ms)
+
+Shader warmup: 93 shaders 1435 combinations 0.003s
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel1') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel3') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel0') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel2') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel4') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.548082 ms
+
+Unloading 207 unused Assets to reduce memory usage. Loaded Objects now: 28944.
+Total: 17.183410 ms (FindLiveObjects: 1.580481 ms CreateObjectMapping: 0.654289 ms MarkObjects: 13.312529 ms  DeleteObjects: 1.635557 ms)
+
+Shader warmup: 93 shaders 1435 combinations 0.002s
+10076: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+10781: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+10782: Too many instances of of same clip(enemy_breaks_like_glass) starting nearly at same time, skipping
+Kinematic body only supports Speculative Continuous collision detection
+11761: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+11762: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel1') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel3') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel0') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel2') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel4') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.869510 ms
+
+Unloading 320 unused Assets to reduce memory usage. Loaded Objects now: 29177.
+Total: 18.197384 ms (FindLiveObjects: 1.291982 ms CreateObjectMapping: 0.433753 ms MarkObjects: 14.176327 ms  DeleteObjects: 2.294261 ms)
+
+Shader warmup: 93 shaders 1435 combinations 0.002s
+Kinematic body only supports Speculative Continuous collision detection
+12135: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+12135: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+12245: Too many instances of of same clip(bullet_hit_wall) starting nearly at same time, skipping
+12245: Too many instances of of same clip(bullet_hit_wall) starting nearly at same time, skipping
+12245: Too many instances of of same clip(bullet_hit_wall) starting nearly at same time, skipping
+12480: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel1') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel3') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel0') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel2') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'LevelFlowControlLevel4') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+The referenced script on this Behaviour (Game Object 'Script') is missing!
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.433156 ms
+
+Unloading 242 unused Assets to reduce memory usage. Loaded Objects now: 29269.
+Total: 18.445794 ms (FindLiveObjects: 1.568984 ms CreateObjectMapping: 0.674136 ms MarkObjects: 13.963264 ms  DeleteObjects: 2.238620 ms)
+
+Shader warmup: 93 shaders 1435 combinations 0.002s
+Kinematic body only supports Speculative Continuous collision detection
+13186: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+13186: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+13189: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+13189: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+13190: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+13195: Too many instances of of same clip(crystal_crush) starting nearly at same time, skipping
+13197: Too many instances of of same clip(bullet_hit_wall) starting nearly at same time, skipping
+13377: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+13377: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+Kinematic body only supports Speculative Continuous collision detection
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Enemy/EnemyBody/rig/root/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/MeleeWeaponSocket/KatanaPickup(Clone)/Offset/collider"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Pickups/KatanaPickup(Clone)/Offset/collider"
+Kinematic body only supports Speculative Continuous collision detection
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Pickups/KatanaPickup(Clone)/Offset/collider"
+Kinematic body only supports Speculative Continuous collision detection
+18500: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+18500: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+18500: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+18501: Too many instances of of same clip(particle_disappear) starting nearly at same time, skipping
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 33.217236 ms
+
+Unloading 1808 unused Assets to reduce memory usage. Loaded Objects now: 14276.
+Total: 16.677348 ms (FindLiveObjects: 0.908132 ms CreateObjectMapping: 0.474686 ms MarkObjects: 9.958554 ms  DeleteObjects: 5.335118 ms)
+
+Shader warmup: 93 shaders 1435 combinations 0.002s
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.629200 ms
+
+Unloading 193 unused Assets to reduce memory usage. Loaded Objects now: 7497.
+Total: 8.840782 ms (FindLiveObjects: 0.458573 ms CreateObjectMapping: 0.277853 ms MarkObjects: 7.009750 ms  DeleteObjects: 1.093999 ms)
+
+Shader warmup: 93 shaders 1435 combinations 0.002s
+The referenced script on this Behaviour (Game Object 'SecurityCamera') is missing!
+The referenced script on this Behaviour (Game Object 'SecurityCamera') is missing!
+The referenced script on this Behaviour (Game Object 'EnemyBody') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+The referenced script on this Behaviour (Game Object 'Enemy') is missing!
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.434107 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 36367.
+Total: 14.540623 ms (FindLiveObjects: 1.786087 ms CreateObjectMapping: 0.519063 ms MarkObjects: 12.146181 ms  DeleteObjects: 0.088622 ms)
+
+Shader warmup: 95 shaders 1463 combinations 0.013s
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.672194 ms
+
+Unloading 658 unused Assets to reduce memory usage. Loaded Objects now: 8813.
+Total: 10.724830 ms (FindLiveObjects: 0.399483 ms CreateObjectMapping: 0.259732 ms MarkObjects: 7.010009 ms  DeleteObjects: 3.055043 ms)
+
+Shader warmup: 95 shaders 1463 combinations 0.002s
+Not enough parameters provided for string: ^Cr^M1CONGRATULATIONS|||^CrYou are now free ^W2to play SUPERHOT^W1 forever.^W2|^CrPlay Endless Mode, play Challenges, train for what's coming.^W2|^CrSpread and promote the game.^W2 It's your responsibility now.^W2||^CrWe are watching.^W2|^CrDon't let us down.^W5|||^CrPress [$VAR0] and get to work., want: 0, have: 298
+The referenced script on this Behaviour (Game Object 'LevelFlowControl') is missing!
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.976774 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 21600.
+Total: 12.200440 ms (FindLiveObjects: 1.020967 ms CreateObjectMapping: 0.372567 ms MarkObjects: 10.595330 ms  DeleteObjects: 0.211011 ms)
+
+Shader warmup: 96 shaders 1487 combinations 0.026s
+Kinematic body only supports Speculative Continuous collision detection
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "_Omni/Folders/Pickups/KatanaPickup(Clone)/Offset/collider"
+Kinematic body only supports Speculative Continuous collision detection
+The referenced script on this Behaviour (Game Object 'LevelFlowControl') is missing!
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.581114 ms
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 21641.
+Total: 14.102393 ms (FindLiveObjects: 1.000527 ms CreateObjectMapping: 0.377519 ms MarkObjects: 12.508615 ms  DeleteObjects: 0.215021 ms)
+
+Shader warmup: 96 shaders 1487 combinations 0.003s
+Kinematic body only supports Speculative Continuous collision detection
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "_Omni/Folders/Pickups/KatanaPickup(Clone)/Offset/collider"
+Kinematic body only supports Speculative Continuous collision detection
+Kinematic body only supports Speculative Continuous collision detection
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "_Omni/Folders/Pickups/KatanaPickup(Clone)/Offset/collider"
+Kinematic body only supports Speculative Continuous collision detection
+Kinematic body only supports Speculative Continuous collision detection
+Kinematic body only supports Speculative Continuous collision detection
+The referenced script on this Behaviour (Game Object 'LevelFlowControl') is missing!
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.622970 ms
+
+Unloading 230 unused Assets to reduce memory usage. Loaded Objects now: 15447.
+Total: 11.062637 ms (FindLiveObjects: 0.874333 ms CreateObjectMapping: 0.441293 ms MarkObjects: 8.538911 ms  DeleteObjects: 1.206627 ms)
+
+Shader warmup: 97 shaders 1512 combinations 0.016s
+Kinematic body only supports Speculative Continuous collision detection
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Pickups/KatanaPickup(Clone)/Offset/collider"
+Kinematic body only supports Speculative Continuous collision detection
+Kinematic body only supports Speculative Continuous collision detection
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Pickups/KatanaPickup(Clone)/Offset/collider"
+Kinematic body only supports Speculative Continuous collision detection
+The referenced script on this Behaviour (Game Object 'LevelFlowControl') is missing!
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.785662 ms
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 15495.
+Total: 12.095342 ms (FindLiveObjects: 0.700520 ms CreateObjectMapping: 0.298364 ms MarkObjects: 10.656703 ms  DeleteObjects: 0.438749 ms)
+
+Shader warmup: 97 shaders 1512 combinations 0.003s
+Curl error 42: Callback aborted

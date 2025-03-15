@@ -1,6 +1,6 @@
 *
 {
-    font-family: "ttf-hack-nerd ";
+    font-family: "JetBrainsMonoNerdFontMono-ExtraBoldItalic.ttf ";
     font-weight: bold;
     font-size: 12px;
 }
@@ -67,7 +67,7 @@ tooltip label{
 }
 
 #bluetooth,
-#pulseaudio,
+pulseaudio,
 #cpu,
 #disk,
 #custom-updates,
@@ -80,14 +80,6 @@ tooltip label{
     margin: 1px;
     border-radius: 15px;
     opacity: 0.9;
-}
 
-#custom-cava {
-    color: #8FBC8F;
-    border-left: 0px;
-    border-right: 0px;
-    padding-bottom: 6px;
-    font-family: "bargraph";
-    font-size: 22px;
 }
 
