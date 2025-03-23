@@ -31,8 +31,8 @@
 	
     ],
     "custom/launch_wofi": {
-        "format": " Yatharth",
-        "on-click": "pkill wofi || wofi -n -c ~/.config/HyprV/wofi/config-bmenu",
+        "format": " 󰻀 󱢅 󰾢 ",
+                "on-click": "rofi -show drun",
         "tooltip": false
     },
     "custom/lock_screen": {
@@ -112,7 +112,7 @@
     },
     "clock": {
         "interval": 1,
-        "format": "{:%H:%M}", 
+        "format": "{:%I:%M %p}", 
         "tooltip": true,
         "tooltip-format": "{:%d/%m/%Y}\n\n<tt><small>{calendar}</small></tt>",
         "calendar": {

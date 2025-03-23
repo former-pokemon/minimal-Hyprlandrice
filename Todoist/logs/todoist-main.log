@@ -1,0 +1,233 @@
+[2025-03-23 23:02:08.983] [info]  ======= NEW SESSION =======
+[2025-03-23 23:02:08.987] [info]  App version: 9.12.1
+[2025-03-23 23:02:08.995] [info]  Time: Sun Mar 23 2025 23:02:08 GMT+0530 (India Standard Time)
+[2025-03-23 23:02:09.045] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:02:09.045] [info]  ===========================
+[2025-03-23 23:02:09.907] [info]  Checking for update
+[2025-03-23 23:02:10.055] [info]  No stored API token
+[2025-03-23 23:02:10.088] [info]  Opening new window
+[2025-03-23 23:02:10.147] [info]  Successfully registered custom protocols
+[2025-03-23 23:02:10.197] [info]  Generated new staging user ID: 1ec91b47-19a9-5573-9351-ea7909a9bf33
+[2025-03-23 23:02:11.358] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:03:00.432] [info]  ======= NEW SESSION =======
+[2025-03-23 23:03:00.438] [info]  App version: 9.12.1
+[2025-03-23 23:03:00.446] [info]  Time: Sun Mar 23 2025 23:03:00 GMT+0530 (India Standard Time)
+[2025-03-23 23:03:00.495] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:03:00.495] [info]  ===========================
+[2025-03-23 23:03:01.006] [info]  Received deeplink: 
+[2025-03-23 23:03:01.007] [info]  Cannot handle the deeplink undefined, activating the app only
+[2025-03-23 23:03:01.354] [info]  Successfully registered custom protocols
+[2025-03-23 23:03:06.302] [info]  Closing a window
+[2025-03-23 23:03:06.314] [info]  App is quitting
+[2025-03-23 23:03:27.655] [info]  ======= NEW SESSION =======
+[2025-03-23 23:03:27.660] [info]  App version: 9.12.1
+[2025-03-23 23:03:27.668] [info]  Time: Sun Mar 23 2025 23:03:27 GMT+0530 (India Standard Time)
+[2025-03-23 23:03:27.719] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:03:27.719] [info]  ===========================
+[2025-03-23 23:03:28.532] [info]  Checking for update
+[2025-03-23 23:03:28.679] [info]  No stored API token
+[2025-03-23 23:03:28.706] [info]  Opening new window
+[2025-03-23 23:03:28.758] [info]  Successfully registered custom protocols
+[2025-03-23 23:03:29.357] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:03:33.534] [info]  App is quitting
+[2025-03-23 23:04:29.643] [info]  ======= NEW SESSION =======
+[2025-03-23 23:04:29.649] [info]  App version: 9.12.1
+[2025-03-23 23:04:29.657] [info]  Time: Sun Mar 23 2025 23:04:29 GMT+0530 (India Standard Time)
+[2025-03-23 23:04:29.709] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:04:29.709] [info]  ===========================
+[2025-03-23 23:04:30.513] [info]  Checking for update
+[2025-03-23 23:04:30.666] [info]  No stored API token
+[2025-03-23 23:04:30.691] [info]  Opening new window
+[2025-03-23 23:04:30.739] [info]  Successfully registered custom protocols
+[2025-03-23 23:04:32.019] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:04:44.404] [info]  App is quitting
+[2025-03-23 23:06:10.598] [info]  ======= NEW SESSION =======
+[2025-03-23 23:06:10.602] [info]  App version: 9.12.1
+[2025-03-23 23:06:10.612] [info]  Time: Sun Mar 23 2025 23:06:10 GMT+0530 (India Standard Time)
+[2025-03-23 23:06:10.660] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:06:10.661] [info]  ===========================
+[2025-03-23 23:06:11.464] [info]  Checking for update
+[2025-03-23 23:06:11.620] [info]  No stored API token
+[2025-03-23 23:06:11.647] [info]  Opening new window
+[2025-03-23 23:06:11.693] [info]  Successfully registered custom protocols
+[2025-03-23 23:06:12.347] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:06:14.859] [info]  ======= NEW SESSION =======
+[2025-03-23 23:06:14.863] [info]  App version: 9.12.1
+[2025-03-23 23:06:14.871] [info]  Time: Sun Mar 23 2025 23:06:14 GMT+0530 (India Standard Time)
+[2025-03-23 23:06:14.922] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:06:14.923] [info]  ===========================
+[2025-03-23 23:06:15.420] [info]  Received deeplink: 
+[2025-03-23 23:06:15.420] [info]  Cannot handle the deeplink undefined, activating the app only
+[2025-03-23 23:06:15.759] [info]  Successfully registered custom protocols
+[2025-03-23 23:06:22.400] [info]  Opening login URL in the browser
+[2025-03-23 23:07:06.944] [info]  ======= NEW SESSION =======
+[2025-03-23 23:07:06.950] [info]  App version: 9.12.1
+[2025-03-23 23:07:06.958] [info]  Time: Sun Mar 23 2025 23:07:06 GMT+0530 (India Standard Time)
+[2025-03-23 23:07:07.007] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:07:07.008] [info]  ===========================
+[2025-03-23 23:07:07.562] [info]  Received deeplink: com.todoist://oauth2redirect/todoist?code=*****&state=*****&prompt=create
+[2025-03-23 23:07:07.563] [info]  Handling auth deeplink: com.todoist://oauth2redirect/todoist?code=*****&state=*****&prompt=create
+[2025-03-23 23:07:07.868] [info]  Successfully exchanged code for token, opening web app now
+[2025-03-23 23:07:07.924] [info]  Successfully registered custom protocols
+[2025-03-23 23:07:13.911] [info]  Setting web app initialized
+[2025-03-23 23:07:15.052] [info]  Received login IPC message
+[2025-03-23 23:07:15.053] [info]  Safe Storage Encryption is not available
+[2025-03-23 23:07:15.088] [info]  setting experimentalist value to false
+[2025-03-23 23:08:45.316] [info]  Closing a window
+[2025-03-23 23:08:45.349] [info]  App is quitting
+[2025-03-23 23:08:48.476] [info]  ======= NEW SESSION =======
+[2025-03-23 23:08:48.480] [info]  App version: 9.12.1
+[2025-03-23 23:08:48.488] [info]  Time: Sun Mar 23 2025 23:08:48 GMT+0530 (India Standard Time)
+[2025-03-23 23:08:48.538] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:08:48.538] [info]  ===========================
+[2025-03-23 23:08:49.353] [info]  Checking for update
+[2025-03-23 23:08:49.531] [info]  Opening new window
+[2025-03-23 23:08:49.593] [info]  Successfully registered custom protocols
+[2025-03-23 23:08:50.681] [info]  Setting web app initialized
+[2025-03-23 23:08:50.753] [info]  Received login IPC message
+[2025-03-23 23:08:50.753] [info]  Safe Storage Encryption is not available
+[2025-03-23 23:08:50.790] [info]  setting experimentalist value to false
+[2025-03-23 23:08:50.827] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:09:12.167] [info]  ======= NEW SESSION =======
+[2025-03-23 23:09:12.172] [info]  App version: 9.12.1
+[2025-03-23 23:09:12.181] [info]  Time: Sun Mar 23 2025 23:09:12 GMT+0530 (India Standard Time)
+[2025-03-23 23:09:12.231] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:09:12.231] [info]  ===========================
+[2025-03-23 23:09:12.726] [info]  Received deeplink: 
+[2025-03-23 23:09:12.727] [info]  Cannot handle the deeplink undefined, activating the app only
+[2025-03-23 23:09:13.060] [info]  Successfully registered custom protocols
+[2025-03-23 23:09:18.239] [info]  Closing a window
+[2025-03-23 23:09:18.263] [info]  App is quitting
+[2025-03-23 23:09:21.087] [info]  ======= NEW SESSION =======
+[2025-03-23 23:09:21.092] [info]  App version: 9.12.1
+[2025-03-23 23:09:21.102] [info]  Time: Sun Mar 23 2025 23:09:21 GMT+0530 (India Standard Time)
+[2025-03-23 23:09:21.151] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:09:21.151] [info]  ===========================
+[2025-03-23 23:09:21.958] [info]  Checking for update
+[2025-03-23 23:09:22.124] [info]  Opening new window
+[2025-03-23 23:09:22.184] [info]  Successfully registered custom protocols
+[2025-03-23 23:09:22.620] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:09:23.358] [info]  Setting web app initialized
+[2025-03-23 23:09:23.435] [info]  Received login IPC message
+[2025-03-23 23:09:23.436] [info]  Safe Storage Encryption is not available
+[2025-03-23 23:09:23.477] [info]  setting experimentalist value to false
+[2025-03-23 23:09:35.399] [info]  Closing a window
+[2025-03-23 23:09:35.432] [info]  App is quitting
+[2025-03-23 23:09:37.817] [info]  ======= NEW SESSION =======
+[2025-03-23 23:09:37.821] [info]  App version: 9.12.1
+[2025-03-23 23:09:37.831] [info]  Time: Sun Mar 23 2025 23:09:37 GMT+0530 (India Standard Time)
+[2025-03-23 23:09:37.881] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:09:37.881] [info]  ===========================
+[2025-03-23 23:09:38.692] [info]  Checking for update
+[2025-03-23 23:09:38.864] [info]  Opening new window
+[2025-03-23 23:09:38.910] [info]  Successfully registered custom protocols
+[2025-03-23 23:09:39.421] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:09:40.125] [info]  Setting web app initialized
+[2025-03-23 23:09:40.204] [info]  Received login IPC message
+[2025-03-23 23:09:40.204] [info]  Safe Storage Encryption is not available
+[2025-03-23 23:09:40.248] [info]  setting experimentalist value to false
+[2025-03-23 23:09:49.482] [info]  Closing a window
+[2025-03-23 23:09:49.528] [info]  App is quitting
+[2025-03-23 23:11:51.479] [info]  ======= NEW SESSION =======
+[2025-03-23 23:11:51.483] [info]  App version: 9.12.1
+[2025-03-23 23:11:51.493] [info]  Time: Sun Mar 23 2025 23:11:51 GMT+0530 (India Standard Time)
+[2025-03-23 23:11:51.541] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:11:51.542] [info]  ===========================
+[2025-03-23 23:11:52.393] [info]  Checking for update
+[2025-03-23 23:11:52.574] [info]  Opening new window
+[2025-03-23 23:11:52.629] [info]  Successfully registered custom protocols
+[2025-03-23 23:11:53.779] [info]  Setting web app initialized
+[2025-03-23 23:11:53.853] [info]  Received login IPC message
+[2025-03-23 23:11:53.854] [info]  Safe Storage Encryption is not available
+[2025-03-23 23:11:53.897] [info]  setting experimentalist value to false
+[2025-03-23 23:11:53.926] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:12:46.193] [info]  Closing a window
+[2025-03-23 23:12:46.249] [info]  App is quitting
+[2025-03-23 23:12:56.604] [info]  ======= NEW SESSION =======
+[2025-03-23 23:12:56.610] [info]  App version: 9.12.1
+[2025-03-23 23:12:56.618] [info]  Time: Sun Mar 23 2025 23:12:56 GMT+0530 (India Standard Time)
+[2025-03-23 23:12:56.667] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:12:56.667] [info]  ===========================
+[2025-03-23 23:12:57.491] [info]  Checking for update
+[2025-03-23 23:12:57.669] [info]  Opening new window
+[2025-03-23 23:12:57.715] [info]  Successfully registered custom protocols
+[2025-03-23 23:12:58.213] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:12:58.814] [info]  Setting web app initialized
+[2025-03-23 23:12:58.887] [info]  Received login IPC message
+[2025-03-23 23:12:58.887] [info]  Safe Storage Encryption is not available
+[2025-03-23 23:12:58.924] [info]  setting experimentalist value to false
+[2025-03-23 23:16:26.083] [info]  ======= NEW SESSION =======
+[2025-03-23 23:16:26.088] [info]  App version: 9.12.1
+[2025-03-23 23:16:26.097] [info]  Time: Sun Mar 23 2025 23:16:26 GMT+0530 (India Standard Time)
+[2025-03-23 23:16:26.149] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:16:26.149] [info]  ===========================
+[2025-03-23 23:16:26.685] [info]  Received deeplink: com.todoist:/oauth2redirect/todoist
+[2025-03-23 23:16:26.686] [info]  Cannot handle the deeplink com.todoist:/oauth2redirect/todoist, activating the app only
+[2025-03-23 23:16:27.084] [info]  Successfully registered custom protocols
+[2025-03-23 23:24:54.036] [info]  Closing a window
+[2025-03-23 23:24:54.070] [info]  App is quitting
+[2025-03-23 23:26:49.555] [info]  ======= NEW SESSION =======
+[2025-03-23 23:26:49.561] [info]  App version: 9.12.1
+[2025-03-23 23:26:49.570] [info]  Time: Sun Mar 23 2025 23:26:49 GMT+0530 (India Standard Time)
+[2025-03-23 23:26:49.622] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:26:49.622] [info]  ===========================
+[2025-03-23 23:26:50.436] [info]  Checking for update
+[2025-03-23 23:26:50.622] [info]  Opening new window
+[2025-03-23 23:26:50.670] [info]  Successfully registered custom protocols
+[2025-03-23 23:26:51.766] [info]  Setting web app initialized
+[2025-03-23 23:26:51.836] [info]  Received login IPC message
+[2025-03-23 23:26:51.837] [info]  Safe Storage Encryption is not available
+[2025-03-23 23:26:51.872] [info]  setting experimentalist value to false
+[2025-03-23 23:26:51.895] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:27:25.754] [info]  Closing a window
+[2025-03-23 23:27:25.775] [info]  App is quitting
+[2025-03-23 23:38:11.330] [info]  ======= NEW SESSION =======
+[2025-03-23 23:38:11.335] [info]  App version: 9.12.1
+[2025-03-23 23:38:11.344] [info]  Time: Sun Mar 23 2025 23:38:11 GMT+0530 (India Standard Time)
+[2025-03-23 23:38:11.393] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:38:11.393] [info]  ===========================
+[2025-03-23 23:38:12.265] [info]  Checking for update
+[2025-03-23 23:38:12.448] [info]  Opening new window
+[2025-03-23 23:38:12.517] [info]  Successfully registered custom protocols
+[2025-03-23 23:38:13.675] [info]  Setting web app initialized
+[2025-03-23 23:38:13.755] [info]  Received login IPC message
+[2025-03-23 23:38:13.756] [info]  Safe Storage Encryption is not available
+[2025-03-23 23:38:13.801] [info]  setting experimentalist value to false
+[2025-03-23 23:38:13.834] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:39:38.835] [info]  Closing a window
+[2025-03-23 23:39:38.862] [info]  App is quitting
+[2025-03-23 23:40:59.633] [info]  ======= NEW SESSION =======
+[2025-03-23 23:40:59.639] [info]  App version: 9.12.1
+[2025-03-23 23:40:59.646] [info]  Time: Sun Mar 23 2025 23:40:59 GMT+0530 (India Standard Time)
+[2025-03-23 23:40:59.700] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:40:59.700] [info]  ===========================
+[2025-03-23 23:41:00.570] [info]  Checking for update
+[2025-03-23 23:41:00.731] [info]  Opening new window
+[2025-03-23 23:41:00.786] [info]  Successfully registered custom protocols
+[2025-03-23 23:41:01.925] [info]  Setting web app initialized
+[2025-03-23 23:41:01.994] [info]  Received login IPC message
+[2025-03-23 23:41:01.995] [info]  Safe Storage Encryption is not available
+[2025-03-23 23:41:02.037] [info]  setting experimentalist value to false
+[2025-03-23 23:41:02.065] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:41:03.257] [info]  Closing a window
+[2025-03-23 23:41:03.287] [info]  App is quitting
+[2025-03-23 23:41:04.426] [info]  ======= NEW SESSION =======
+[2025-03-23 23:41:04.432] [info]  App version: 9.12.1
+[2025-03-23 23:41:04.441] [info]  Time: Sun Mar 23 2025 23:41:04 GMT+0530 (India Standard Time)
+[2025-03-23 23:41:04.493] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:41:04.493] [info]  ===========================
+[2025-03-23 23:41:12.344] [info]  ======= NEW SESSION =======
+[2025-03-23 23:41:12.348] [info]  App version: 9.12.1
+[2025-03-23 23:41:12.357] [info]  Time: Sun Mar 23 2025 23:41:12 GMT+0530 (India Standard Time)
+[2025-03-23 23:41:12.405] [info]  Timezone: Asia/Calcutta
+[2025-03-23 23:41:12.406] [info]  ===========================
+[2025-03-23 23:41:13.228] [info]  Checking for update
+[2025-03-23 23:41:13.411] [info]  Opening new window
+[2025-03-23 23:41:13.462] [info]  Successfully registered custom protocols
+[2025-03-23 23:41:14.079] [info]  Update for version 9.12.1 is not available (latest version: 9.12.1, downgrade is allowed).
+[2025-03-23 23:41:14.562] [info]  Setting web app initialized
+[2025-03-23 23:41:14.627] [info]  Received login IPC message
+[2025-03-23 23:41:14.627] [info]  Safe Storage Encryption is not available
+[2025-03-23 23:41:14.657] [info]  setting experimentalist value to false
+[2025-03-23 23:42:38.144] [info]  Closing a window
+[2025-03-23 23:42:38.173] [info]  App is quitting

@@ -72,7 +72,8 @@ vim.api.nvim_set_keymap('n', '<F5>', ':w<CR>:!gcc % -o %:r && ./%:r<CR>', { nore
 vim.api.nvim_set_keymap('n', '<F9>', ':!gdb ./%:r<CR>', { noremap = true, silent = true })
 
 -- Statusline setup
-require("lualine").setup()
+require("lualine").setup({
+    options = {globalstatus = true }})
 
 -- NERDTree keybinding
 vim.api.nvim_set_keymap('n', '<C-n>', ':NERDTreeToggle<CR>', { noremap = true, silent = true })
@@ -83,4 +84,5 @@ vim.api.nvim_set_keymap('n', '<C-v>', '"+p', { noremap = true, silent = true })
 
 -- Keybinding to open another file
 vim.api.nvim_set_keymap('n', '<C-o>', ':e ', { noremap = true, silent = false })
+vim.opt.clipboard = "unnamedplus"
 
